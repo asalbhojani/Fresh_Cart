@@ -1,0 +1,15 @@
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* color: rgb(28, 82, 3); */
+    /* color: #ffdb88; */
+     color: #dddddd;
+    background: linear-gradient(to right,rgb(240, 210, 44), rgb(235, 103, 27), rgba(204, 0, 68, 0.979));
+  }
+  .outlined-text {
+    color: rgba(255, 255, 255, 0); /* Fill color */
+    -webkit-text-stroke: 1px white; /* Outline color and width */
+  }
